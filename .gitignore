@@ -172,3 +172,8 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# Large trace files and other irrelevant files
+*.dat
+*.txt
+*.bat
